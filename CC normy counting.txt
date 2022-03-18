@@ -1,0 +1,28 @@
+
+
+
+
+
+obsługa błędów:
+- pusta komórka z godzinaą rozpoczęcia lub zakończenia
+
+- sprawdzenie czy wszystkie lokacje zostały zamknięte
+
+- jeśli plik jest otwarty zapisuje w kolejnym pliku , zmieniając nazwe pliku 
+
+task:
+
+- ustawienie przerwy która będzie odliczana od normy
+
+- dodatkowe informacje: data pliku
+
+
+
+- dodać info na na jakim piętrze liczono głównie 
+
+
+- przesortować dane od najwiekszej do najmniejszej
+
+- podac godzine otwarcia lokalizacji przy opcji - sprawdzenie niezamknietych lokalizacji 
+
+- dodać opcję wpisywania, odliczenia dodatkowej przerwy 

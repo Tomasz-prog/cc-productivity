@@ -1,0 +1,8 @@
+Y:\OUTBOUND\feedback provider\Usercodes list.xlsx
+Z:\QA Tools\feedback reports\report f1_2_2021.xlsx
+Z:\QA Tools\Warehouse Audit\Sprawdzone lokacje v2.xlsx
+Z:\Reports\Productivity\Outbound\
+Y:\OUTBOUND\feedback provider\udzielony feedback.csv
+Z:\QA Tools\feedback reports\missing items.xlsx
+Y:\OUTBOUND\feedback provider\wyniki\
+
